@@ -3,3 +3,6 @@ En este proyecto se abarca  arboles de expansión mínima en donde partimos de u
 Tenemos en cuenta el tema del agente viajero ya que es un poco parecido y recalcar también:
 - Java
 - Java Swing
+
+## PRIM PANEL y PRIMREPINTAR
+Hay dos partes del proyecto, una en donde se repinta el camino en el mismo panel y la otra en donde se crea un nuevo panel con el camino que se va formando
